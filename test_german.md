@@ -22,6 +22,8 @@ Nachzulesen in der [Wikipedia](https://de.wikipedia.org/wiki/Hallo-Welt-Programm
       1. Ubuntu:
       1. Debian:
    1. Unter Windows
+   2. Windows 11
+   3. Windows XP
 1. Nutzen Sie das Programm
    1. Unter Linux:
    1. ...
